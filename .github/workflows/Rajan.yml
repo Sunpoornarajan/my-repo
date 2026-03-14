@@ -1,6 +1,6 @@
 name: Rajan
  
-on: workflows_dispatch
+on: workflow_dispatch
  
 jobs:
 Rajan-job: 
