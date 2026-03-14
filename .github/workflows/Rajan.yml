@@ -1,0 +1,10 @@
+name: Rajan
+ 
+on: workflow_dispatch
+ 
+jobs:
+Rajan-job: 
+    runs-on: ubuntu-latest 
+    steps:
+- name: message
+          run: echo "Rajan"
